@@ -75,7 +75,7 @@ export const projectsData = [
 
   export const testimonialsData = [
     {
-        name: "Donald Jackman",
+        name: "Faizan Ali",
         title: "Marketing Manager",
         image: profile_img_1,
         alt: "Portrait of Donald Jackman",
@@ -83,7 +83,7 @@ export const projectsData = [
         text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
     },
     {
-        name: "Richard Nelson",
+        name: "Ashish Kumar",
         title: "UI/UX Designer",
         image: profile_img_2,
         alt: "Portrait of Richard Nelson",
@@ -91,7 +91,7 @@ export const projectsData = [
         text: "From the very first meeting, they understood my vision and helped me find the perfect property. Their attention to detail and commitment to client satisfaction is unmatched."
     },
     {
-        name: "James Washington",
+        name: "Mukesh Jaiswal",
         title: "Co-Founder",
         image: profile_img_3,
         alt: "Portrait of James Washington",

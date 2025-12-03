@@ -29,7 +29,7 @@ function Footer() {
         </div> 
       </div>
       <div className='border-t border-gray-700 py-4 mt-10 text-center text-gray-500'>
-        Copyright 2025 © GreatStack. All Right Reserved.
+        Copyright 2025 © Devendra. All Right Reserved.
       </div>
     </div>
   )

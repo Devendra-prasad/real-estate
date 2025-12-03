@@ -74,4 +74,5 @@ const prevProject = () => {
   )
 }
 
-export default Projects
+export default Projects;
+
